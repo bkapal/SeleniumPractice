@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="8" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-13T17:11:44 IST" name="Suite" finished-at="2021-04-13T17:13:13 IST" duration-ms="89562">
+    <groups>
+      <group name="output">
+        <method signature="FindElementsTest.clickKalyaJewl()[pri:0, instance:com.selenium.test.FindElementsTest@58a9760d]" name="clickKalyaJewl" class="com.selenium.test.FindElementsTest"/>
+        <method signature="FindElementsTest.testMultiElement()[pri:0, instance:com.selenium.test.FindElementsTest@58a9760d]" name="testMultiElement" class="com.selenium.test.FindElementsTest"/>
+      </group> <!-- output -->
+      <group name="run">
+        <method signature="FindElementsTest.gotoOthersites()[pri:0, instance:com.selenium.test.FindElementsTest@7a675056]" name="gotoOthersites" class="com.selenium.test.FindElementsTest"/>
+        <method signature="FindElementsTest.verifyFeelinglucky()[pri:0, instance:com.selenium.test.FindElementsTest@7a675056]" name="verifyFeelinglucky" class="com.selenium.test.FindElementsTest"/>
+      </group> <!-- run -->
+    </groups>
+    <test started-at="2021-04-13T17:11:44 IST" name="Test run" finished-at="2021-04-13T17:12:02 IST" duration-ms="17977">
+      <class name="com.selenium.test.FindElementsTest">
+        <test-method is-config="true" signature="method1()[pri:0, instance:com.selenium.test.FindElementsTest@58a9760d]" started-at="2021-04-13T17:11:44 IST" name="method1" finished-at="2021-04-13T17:11:47 IST" duration-ms="3515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="clickKalyaJewl()[pri:0, instance:com.selenium.test.FindElementsTest@58a9760d]" started-at="2021-04-13T17:11:47 IST" name="clickKalyaJewl" finished-at="2021-04-13T17:11:53 IST" duration-ms="5563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickKalyaJewl -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.test.FindElementsTest@58a9760d]" started-at="2021-04-13T17:11:53 IST" name="teardown" finished-at="2021-04-13T17:11:54 IST" duration-ms="1150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:com.selenium.test.FindElementsTest@58a9760d]" started-at="2021-04-13T17:11:54 IST" name="method1" finished-at="2021-04-13T17:11:56 IST" duration-ms="1861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="testMultiElement()[pri:0, instance:com.selenium.test.FindElementsTest@58a9760d]" started-at="2021-04-13T17:11:56 IST" name="testMultiElement" finished-at="2021-04-13T17:12:01 IST" duration-ms="5168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiElement -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.test.FindElementsTest@58a9760d]" started-at="2021-04-13T17:12:01 IST" name="teardown" finished-at="2021-04-13T17:12:02 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.selenium.test.FindElementsTest -->
+    </test> <!-- Test run -->
+    <test started-at="2021-04-13T17:12:02 IST" name="Test Output" finished-at="2021-04-13T17:13:13 IST" duration-ms="71554">
+      <class name="com.selenium.test.FindElementsTest">
+        <test-method is-config="true" signature="method1()[pri:0, instance:com.selenium.test.FindElementsTest@7a675056]" started-at="2021-04-13T17:12:02 IST" name="method1" finished-at="2021-04-13T17:12:03 IST" duration-ms="1719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="gotoOthersites()[pri:0, instance:com.selenium.test.FindElementsTest@7a675056]" started-at="2021-04-13T17:12:03 IST" name="gotoOthersites" finished-at="2021-04-13T17:13:01 IST" duration-ms="58072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoOthersites -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.test.FindElementsTest@7a675056]" started-at="2021-04-13T17:13:01 IST" name="teardown" finished-at="2021-04-13T17:13:02 IST" duration-ms="808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:com.selenium.test.FindElementsTest@7a675056]" started-at="2021-04-13T17:13:02 IST" name="method1" finished-at="2021-04-13T17:13:04 IST" duration-ms="1766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="verifyFeelinglucky()[pri:0, instance:com.selenium.test.FindElementsTest@7a675056]" started-at="2021-04-13T17:13:04 IST" name="verifyFeelinglucky" finished-at="2021-04-13T17:13:12 IST" duration-ms="8457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFeelinglucky -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.test.FindElementsTest@7a675056]" started-at="2021-04-13T17:13:12 IST" name="teardown" finished-at="2021-04-13T17:13:13 IST" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.selenium.test.FindElementsTest -->
+    </test> <!-- Test Output -->
+  </suite> <!-- Suite -->
+</testng-results>
